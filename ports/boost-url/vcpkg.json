@@ -1,0 +1,9 @@
+{
+  "name": "boost-url",
+  "version-date": "2022-03-28",
+  "description": "Boost.URL is a portable C++ library which provides containers and algorithms which model a URI",
+  "homepage": "https://github.com/CPPAlliance/url",
+  "dependencies": [
+    "boost-core"
+  ]
+}
